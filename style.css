@@ -1,13 +1,13 @@
 /* Colors and fonts */
 #introduction {
   position: relative;
-  background-image: URL(images/Screenshot (608).png);
+  background-image:URL(images/Screenshot (608).png);
   background-size: cover;
   background-position: center;
   color: white;
   text-align: center;
-  padding: 100px 40px; /* Aumenta il padding per più spazio */
-  border-radius: 0; /* Per mantenere i bordi squadrati */
+  padding: 100px 40px; 
+  border-radius: 0; 
 }
 #introduction::before {
   content: "";
